@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jake-Turnbull
-- 👀 I’m interested in methods of MRI harmonization.
-- 📫 You can contact me on my personal email: jaketurnbull2559@gmail.com
-- or my work email jacob.turnbull@ndcn.ox.ac.uk
+- Hi, I’m @Jake-Turnbull
+- I am a dPhil candidate at Oxford university looking at developing, comparing and testing methods of MRI harmonization.
+- You can contact me on my personal email: jaketurnbull2559@gmail.com, or my work email jacob.turnbull@ndcn.ox.ac.uk
 - Pronouns: He/Him
 
 <!---
